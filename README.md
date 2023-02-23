@@ -9,3 +9,9 @@
 ![p7](https://user-images.githubusercontent.com/122641014/220825942-703ce1e0-6767-4a8a-b207-c4ff85685bfc.png)
 ![p8](https://user-images.githubusercontent.com/122641014/220825946-5366ce66-2493-47c3-82d7-08829b47929a.png)
 
+Functionalities:
+1. Tutoring services
+2. Map with live routing options
+3. AI serviecs
+4. Voice or Video calling options
+
