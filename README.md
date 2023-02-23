@@ -1,4 +1,5 @@
 # Assignment2
+Sheridan Courses is an app mainly designed for Sheridan college students with immense features like Content viewing, calendar, Grout and private chat options.
 
 ![p1](https://user-images.githubusercontent.com/122641014/220825826-c398db0a-4a77-4496-b970-5690d1033d66.png)
 ![p2](https://user-images.githubusercontent.com/122641014/220825913-64394d64-a075-4d1b-898f-ab6568471d57.png)
